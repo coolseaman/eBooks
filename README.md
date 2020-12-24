@@ -6,4 +6,6 @@ Summary of open source book
 
 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) 
 
+[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
 [ECMAScript 6 入门](https://es6.ruanyifeng.com/)  
